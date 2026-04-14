@@ -1,14 +1,9 @@
-# Game Progress
+## Castlevania - Harmony of Dissonance
 
-A record of major achievements completed in the game.
-
-## Achievements
-
-- ✅ Finished the Game
-- 🌍 200% Map Completion
-
+![](./img/Main%20Screen.jpg)
 ---
-
-### Notes
-This README serves as a simple tracker of milestones.
-Feel free to expand with screenshots, strategies, or future goals.
+![](./img/Completed.jpg)
+---
+![](./img/Map.jpg)
+---
+![](./img/Stats.jpg)

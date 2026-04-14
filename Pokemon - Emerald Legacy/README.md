@@ -1,18 +1,21 @@
-# Game Progress
+## Pokemon - Emerald Legacy
 
-A record of major achievements completed in the game.
-
-## Achievements
-
-1. 🏆 Obtained All Gym Badges (8)
-2. ⚔️ Defeated Elite 4
-3. 👑 Defeated Steven (Champion)
-4. 🥈 Obtained Silver Medals (7)
-5. 🔁 Defeated Gym Rematches 3
-6. 🥇 Obtained Gold Medals (7)
-
+![](./img/Home.jpg)
 ---
-
-## Notes
-This README serves as a simple tracker of milestones.
-Feel free to expand with screenshots, strategies, or future goals.
+![](./img/Hoenn%20Map.jpg)
+---
+![](./img/My%20Team%20-%20Emerald%20Legacy.jpg)
+---
+![](./img/Legendary%20Collection.jpg)
+---
+![](./img/Shiny%20Beldum.jpg)
+---
+![](./img/Trainer%20Card.jpg)
+---
+![](./img/Trainer%20Card%20Back.jpg)
+---
+![](./img/Battle%20Frontier%20Gold%20Medals.jpg)
+---
+![](./img/STEVEN.jpg)
+---
+![](./img/Hall%20of%20Fame.jpg)
