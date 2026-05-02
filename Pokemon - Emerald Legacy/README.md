@@ -16,4 +16,4 @@
 ---
 | My Team | Steven | Hall of Fame |
 |---------|--------|--------------|
-| ![](./img/My%20Team%20-%20Emerald%20Legacy.jpg) | ![](./img/STEVEN.jpg) | ![](./img/Hall%20of%20Fame.jpg) |
+| ![](./img/My%20Team.jpg) | ![](./img/STEVEN.jpg) | ![](./img/Hall%20of%20Fame.jpg) |

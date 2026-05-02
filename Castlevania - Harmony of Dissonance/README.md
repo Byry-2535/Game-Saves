@@ -3,7 +3,7 @@
 ## Screenshots
 
 | Main Screen | Completion |
-|-------------|-----------|
+|-------------|------------|
 | ![](./img/Main%20Screen.jpg) | ![](./img/Completed.jpg) |
 ---
 | Map | Stats |
