@@ -10,6 +10,6 @@
 |--------------|--------------|--------------|
 |![](./img/Trainer%20Card.jpg) | ![](./img/Johto%20Badges.jpg) | ![](./img/Kanto%20Badges.jpg) |
 ---
-| My Team | Lance | Hall of Fame |
-|---------|-------|--------------|
-| ![](./img/My%20Team.jpg) | ![](./img/Lance.jpg) | ![](./img/Hall%20of%20Fame.jpg) |
+| My Team | Red | Hall of Fame |
+|---------|-----|--------------|
+| ![](./img/My%20Team.jpg) | ![](./img/Red.jpg) | ![](./img/Hall%20of%20Fame.jpg) |
